@@ -1,0 +1,44 @@
+input{
+    width: 300px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+label{
+  font-style: bold;
+  font-size: 20px;
+}
+
+h1{
+    margin-left: 50px;
+}
+
+#submit{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+}
+#submit:hover {
+    background-color: Blue;
+}
+span{
+    color: red;
+}
+
+.container{
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 5px solid black;
+    border-radius: 30px;
+    padding: 1px 1px 30px 40px;
+    background-color: rgb(245, 240, 233);
+
+}
+
+  
